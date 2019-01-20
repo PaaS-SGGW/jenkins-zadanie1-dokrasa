@@ -1,4 +1,4 @@
-node {
+node('bipeline') {
     agent any
     
     stage('Raz'){
